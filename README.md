@@ -1,5 +1,3 @@
 # helloworld
 
-#hi
-
 #haha
